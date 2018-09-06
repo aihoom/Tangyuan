@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tangyuan\n"
+"POT-Creation-Date: 2018-09-04 14:45+0800\n"
+"PO-Revision-Date: 2018-09-04 20:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Sorry, but the page you are looking for has moved or no longer exists."
+msgstr "对不起，您正在寻找的页面已移动或不再存在。"
+
+#: category.php:26
+msgid "Post Count"
+msgstr "文章数量"
+
+#: comments.php:23
+msgid "&larr; Older Comments"
+msgstr "&larr; 旧一点的评论"
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr "新一点的评论 &rarr;"
+
+#: comments.php:37 inc/customizer.php:148
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: comments.php:38 inc/customizer.php:164
+msgid "Post Comment"
+msgstr "提交评论"
+
+#: inc/back-compat.php:15 inc/back-compat.php:22 inc/back-compat.php:34
+#, php-format
+msgid ""
+"Tangyuan requires at least WordPress version 4.7. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+"Tangyuan 至少需要WordPress 4.7版本。正在运行版本%s。请升级后再试一次。"
+
+#: inc/callback.php:69 inc/callback.php:145
+msgid "Reply"
+msgstr "回复"
+
+#: inc/customizer.php:39
+msgid "Mobile Logo Image Maximum Width"
+msgstr "移动设备下图标图像最大宽度"
+
+#: inc/customizer.php:59
+msgid "Tablet Logo Image Maximum Width"
+msgstr "平板电脑下图标最大宽度"
+
+#: inc/customizer.php:79
+msgid "Desktop Logo Image Maximum Width"
+msgstr "桌面下站点图标最大宽度"
+
+#: inc/customizer.php:95
+msgid "Theme Settings"
+msgstr "主题设置"
+
+#: inc/customizer.php:99
+msgid "Background, Typesetting And Text."
+msgstr "背景、排版和文字"
+
+#: inc/customizer.php:112
+msgid "Excerpt Length"
+msgstr "文章摘要长度"
+
+#: inc/customizer.php:130
+msgid "Media Position"
+msgstr "媒体位置"
+
+#: inc/customizer.php:135
+msgid "Hide"
+msgstr "隐藏"
+
+#: inc/customizer.php:136
+msgid "Block"
+msgstr "块"
+
+#: inc/customizer.php:137
+msgid "Leftward"
+msgstr "左侧"
+
+#: inc/customizer.php:138
+msgid "Rightward"
+msgstr "右侧"
+
+#: inc/customizer.php:152
+msgid "Reply Form Title"
+msgstr "回复表单标题"
+
+#: inc/customizer.php:168
+msgid "Reply Form Submit Button Text"
+msgstr "回复表单提交按钮文本"
+
+#: inc/function.php:140
+msgid "Add Menu"
+msgstr "添加菜单"
+
+#: inc/libs/TaxonomyImage.php:63 inc/libs/TaxonomyImage.php:70
+#: inc/libs/TaxonomyImage.php:84
+msgid "Image"
+msgstr "图像"
+
+#: inc/libs/TaxonomyImage.php:75
+msgid "Set Image"
+msgstr "设置图像"
+
+#: inc/libs/TaxonomyImage.php:76 inc/libs/TaxonomyImage.php:89
+msgid "Remove Image"
+msgstr "移除图像"
+
+#: inc/libs/TaxonomyImage.php:88
+msgid "Edit Image"
+msgstr "编辑图像"
+
+#: inc/setup.php:38
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: inc/setup.php:49 inc/widgets/Tangyuan_Widget_Latest_Posts.php:12
+msgid "Latest Posts"
+msgstr "近期文章"
+
+#: inc/setup.php:64
+msgid "Follow Me"
+msgstr "跟随我吧"
+
+#: inc/setup.php:122
+msgid "Right Sidebar"
+msgstr "右边栏"
+
+#: inc/setup.php:124
+msgid "Add widgets here to appear in your right sidebar."
+msgstr "添加小部件出现在你的右边栏。"
+
+#: inc/setup.php:132
+msgid "Footer Left"
+msgstr "页脚左边"
+
+#: inc/setup.php:134
+msgid "Add widgets here to appear in your footer left."
+msgstr "添加小部件出现在你的左边。"
+
+#: inc/setup.php:143
+msgid "Footer Center"
+msgstr "页脚中间"
+
+#: inc/setup.php:145
+msgid "Add widgets here to appear in your footer center."
+msgstr "添加小部件出现在你的中间。"
+
+#: inc/setup.php:154
+msgid "Footer Right"
+msgstr "页脚右边"
+
+#: inc/setup.php:156
+msgid "Add widgets here to appear in your footer right."
+msgstr "添加小部件出现在你的右边。"
+
+#: inc/widgets/Tangyuan_Widget_Latest_Posts.php:11
+msgid "Displays a number of the latest posts."
+msgstr "显示一些最近的文章。"
+
+#: inc/widgets/Tangyuan_Widget_Latest_Posts.php:90
+msgid "Latest"
+msgstr "最新日期"
+
+#: inc/widgets/Tangyuan_Widget_Latest_Posts.php:93
+msgid "Most Comment"
+msgstr "最多评论"
+
+#: inc/widgets/Tangyuan_Widget_Latest_Posts.php:96
+msgid "Random"
+msgstr "随机"
+
+#: single.php:32 templates/tpl-full-width.php:30
+#, php-format
+msgid "wrote %s"
+msgstr "撰写于 %s"
+
+#: templates/post-format/content.php:49
+msgctxt "Comment Count"
+msgid "0 Comment"
+msgstr "0 条评论"
+
+#: templates/post-format/content.php:53
+#, php-format
+msgctxt "Comment Count"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s 条评论"
+
+#. Theme Name of the plugin/theme
+msgid "Tangyuan"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://tangyuan.mousin.cn"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Tangyuan 采用黑白基调设计，是一款布局已经烂大街的主题，主题易于配置但功能简"
+"单，它虽然也支持小工具、自定义网站标志等功能，只能用于个人博客。"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mousin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mousin.cn/"
+msgstr ""
+
+#~ msgid "Footer Text"
+#~ msgstr "页脚文本"
+
+#~ msgctxt "Theme starter content"
+#~ msgid "Latests Posts"
+#~ msgstr "近期文章"
+
+#~ msgctxt "Theme starter content"
+#~ msgid "Archives"
+#~ msgstr "文章归档"
+
+#~ msgctxt "Theme starter content"
+#~ msgid "Categories"
+#~ msgstr "文章分类"
+
+#~ msgctxt "Theme starter content"
+#~ msgid "Latest Posts"
+#~ msgstr "近期文章"
+
+#~ msgctxt "tangyuan"
+#~ msgid "Latest Posts"
+#~ msgstr "近期文章"
+
+#~ msgid "Show your Posts"
+#~ msgstr "展示你最近发布的文章"
+
+#~ msgid "On the bottom left"
+#~ msgstr "底部左侧"
+
+#~ msgid "On the bottom center"
+#~ msgstr "底部中间"
+
+#~ msgid "On the bottom right"
+#~ msgstr "底部右侧"
+
+#~ msgid "%s wrote %s"
+#~ msgstr "<b itemprop=\"author\">%s</b> 撰写于 %s"
+
+#~ msgid "The Excerpt Length"
+#~ msgstr "文章摘要长度"
+
+#~ msgid "Reply Form Submit Text"
+#~ msgstr "回复表单提交文本"
+
+#~ msgid "Reply Button Text"
+#~ msgstr "回覆按钮文本"
+
+#~ msgid "Background, typesetting and text."
+#~ msgstr "背景、排版和文字"
+
+#~ msgid "Send"
+#~ msgstr "发送"
+
+#~ msgid "Mobile Logo Image Size"
+#~ msgstr "移动站点标志图像大小"
+
+#~ msgid "Tablet Logo Image Size"
+#~ msgstr "平板电脑站点标志图像大小"
+
+#~ msgid "Desktop Logo Image Size"
+#~ msgstr "桌面站点标志图像大小"
